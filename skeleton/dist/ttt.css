@@ -56,8 +56,8 @@ li:hover {
 .o:after {
   display: block;
   width: 100%;
-  font-size: 60px;
-  line-height: 80px;
+  font-size: 200px;
+  line-height: 160px;
 }
 
 .x:after {
